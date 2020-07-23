@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my Github! I do lots of stuff in Python so feel free to check out my repos! 😄
 
 <!--
 **felix314159/felix314159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
