@@ -6,6 +6,6 @@ My preferred languages are:
 
 * Go
 * Python
-* C
+* C / C++ / CUDA
 
 I contribute to open-source projects whenever I find a good opportunity to help.
