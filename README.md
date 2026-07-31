@@ -4,8 +4,8 @@ I'm a software engineer with a PhD in computer science and professional experien
 
 Much of my recent work has focused on Ethereum's execution layer, particularly:
 
-* [ethereum/execution-specs](github.com/ethereum/execution-specs) - executable Python specifications and test-generation infrastructure for Ethereum's execution layer
-* [ethereum/execution-spec-tests](github.com/ethereum/execution-spec-tests) - former standalone repository for execution-layer test generation, now archived and integrated into execution-specs
+* [ethereum/execution-specs](https://github.com/ethereum/execution-specs) - executable Python specifications and test-generation infrastructure for Ethereum's execution layer
+* [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests) - former standalone repository for execution-layer test generation, now archived and integrated into execution-specs
 * Cross-client testing, debugging, and collaboration with Ethereum execution-client teams
 * CI/CD, developer automation, performance improvements, and maintainability
 
