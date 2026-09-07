@@ -1,23 +1,34 @@
 ### Hi, I'm Felix
 
-I'm a software engineer with a PhD in computer science and professional experience building protocol specifications, testing infrastructure, and developer tooling at the Ethereum Foundation.
+I'm an experienced software engineer and Linux kernel contributor with a PhD in computer science and professional experience in the Ethereum ecosystem. I enjoy finding and fixing bugs, 'one of the good ones' as some may say.
 
-Much of my recent work has focused on Ethereum's execution layer, particularly:
+### Notable Contributions (not a complete list)
 
-* [ethereum/execution-specs](https://github.com/ethereum/execution-specs) - executable Python specifications and test-generation infrastructure for Ethereum's execution layer
-* [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests) - former standalone repository for execution-layer test generation, now archived and integrated into execution-specs
-* Cross-client testing, debugging, and collaboration with Ethereum execution-client teams
-* CI/CD, developer automation, performance improvements, and maintainability
+* [Linux Kernel](https://github.com/torvalds/linux)
+    * [Fix a futex private-hash use-after-free](https://redirect.github.com/torvalds/linux/commit/1c7efabfbaf796f11000a46094a69955a01ec6cc)
+* [Google syzkaller](https://github.com/google/syzkaller)
+    * [Describe Linux robust futex unlock operations](https://redirect.github.com/google/syzkaller/pull/7770)
+* [Linus Torvalds' GuitarPedal](https://github.com/torvalds/GuitarPedal)
+    * [Fix the 2-kbit EEPROM configuration](https://redirect.github.com/torvalds/GuitarPedal/commit/126abcd494254686f26e6a572739c3ca26eaeb65)
+* [Python / CPython](https://github.com/python/cpython)
+    * [Speed up difflib.HtmlDiff for lopsided replacements](https://redirect.github.com/python/cpython/pull/156506)
+* [Homebrew](https://github.com/Homebrew/brew)
+    * [Require trust for automatic tap migration installs](https://redirect.github.com/Homebrew/brew/pull/23662)
+* [AFL++](https://github.com/AFLplusplus/AFLplusplus)
+    * [Fix narrow length-field overflow in frameshift](https://redirect.github.com/AFLplusplus/AFLplusplus/pull/2884)
+* [curl](https://github.com/curl/curl)
+    * [Pass channel bindings on the initial SPNEGO/SSPI context](https://redirect.github.com/curl/curl/pull/22537)
+* [nginx](https://github.com/nginx/nginx)
+    * [Reject zero WINDOW_UPDATE increments from upstream](https://redirect.github.com/nginx/nginx/pull/1622)
+* [llama.cpp](https://github.com/ggml-org/llama.cpp)
+    * [Pre-select models in the web UI using aliases](https://redirect.github.com/ggml-org/llama.cpp/pull/25492)
+* [systemd](https://github.com/systemd/systemd)
+    * [Standardize man-page reference formatting](https://redirect.github.com/systemd/systemd/pull/43546)
+* [Ethereum execution specifications](https://github.com/ethereum/execution-specs)
+    * Various contributions
+* [Ethereum execution spec tests](https://github.com/ethereum/execution-spec-tests)
+    * Various contributions
+* Various PRs to more Ethereum related repos that I CBA to list
 
-Outside protocol engineering, I enjoy building practical backend and infrastructure software. I prefer systems that are simple, well-tested, observable, and reliable.
 
-### Technologies
-
-* Primary languages: Python, Go, Solidity
-* Areas: Backend systems, protocol testing, developer tooling, distributed systems, CI/CD, and software security
-
-
-I'm looking for a software engineering role involving backend systems, infrastructure, testing, developer productivity, protocol engineering, or software security.
-
-
-You can also find me on [X](https://x.com/felix314159_).
+As you can see, I mainly focus on security fixes, bug fixes, performance improvements and sometimes help working on random open issues created by repo maintainers. I also participate in bug bounty programs, but usually you have to request permission to publish those findings so they are not listed here.
