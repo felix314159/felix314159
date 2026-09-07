@@ -9,7 +9,7 @@ I'm an experienced software engineer and Linux kernel contributor with a PhD in 
 * [Google syzkaller](https://github.com/google/syzkaller)
     * [Describe Linux robust futex unlock operations](https://redirect.github.com/google/syzkaller/pull/7770)
 * [Linus Torvalds' GuitarPedal](https://github.com/torvalds/GuitarPedal)
-    * [Fix the 2-kbit EEPROM configuration](https://redirect.github.com/torvalds/GuitarPedal/commit/126abcd494254686f26e6a572739c3ca26eaeb65)
+    * [Fix the 2-kbit EEPROM configuration](https://redirect.github.com/torvalds/GuitarPedal/commit/d452d70073e911c94e2fd412f3d15da9c0e2959e)
 * [Python / CPython](https://github.com/python/cpython)
     * [Speed up difflib.HtmlDiff for lopsided replacements](https://redirect.github.com/python/cpython/pull/156506)
 * [Homebrew](https://github.com/Homebrew/brew)
