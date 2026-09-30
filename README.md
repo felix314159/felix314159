@@ -5,7 +5,7 @@ I'm an experienced software engineer and Linux kernel contributor with a PhD in 
 ### Notable Contributions (not a complete list)
 
 * [Linux Kernel](https://github.com/torvalds/linux)
-    * [Fix a futex private-hash use-after-free](https://redirect.github.com/torvalds/linux/commit/1c7efabfbaf796f11000a46094a69955a01ec6cc) (this patch got merged into Linux Stable [6.18.47](https://cdn.kernel.org/pub/linux/kernel/v6.x/ChangeLog-6.18.47), [7.1.11](https://cdn.kernel.org/pub/linux/kernel/v7.x/ChangeLog-7.1.11) and [7.2.1](https://cdn.kernel.org/pub/linux/kernel/v7.x/ChangeLog-7.2.1)
+    * [Fix a futex private-hash use-after-free](https://redirect.github.com/torvalds/linux/commit/1c7efabfbaf796f11000a46094a69955a01ec6cc) (this patch got merged into Linux Stable [6.18.47](https://cdn.kernel.org/pub/linux/kernel/v6.x/ChangeLog-6.18.47), [7.1.11](https://cdn.kernel.org/pub/linux/kernel/v7.x/ChangeLog-7.1.11) and [7.2.1](https://cdn.kernel.org/pub/linux/kernel/v7.x/ChangeLog-7.2.1))
 * [Google syzkaller](https://github.com/google/syzkaller)
     * [Describe Linux robust futex unlock operations](https://redirect.github.com/google/syzkaller/pull/7770)
 * [Linus Torvalds' GuitarPedal](https://github.com/torvalds/GuitarPedal)
