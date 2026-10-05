@@ -18,6 +18,8 @@ I'm an experienced software engineer and Linux kernel contributor with a PhD in 
     * [Fix narrow length-field overflow in frameshift](https://redirect.github.com/AFLplusplus/AFLplusplus/pull/2884)
 * [curl](https://github.com/curl/curl)
     * [Pass channel bindings on the initial SPNEGO/SSPI context](https://redirect.github.com/curl/curl/pull/22537)
+* [veracrypt](https://github.com/veracrypt/VeraCrypt)
+    * [Unix: require confirmation before overwriting containers](https://redirect.github.com/veracrypt/VeraCrypt/pull/1861) 
 * [nginx](https://github.com/nginx/nginx)
     * [Reject zero WINDOW_UPDATE increments from upstream](https://redirect.github.com/nginx/nginx/pull/1622)
 * [llama.cpp](https://github.com/ggml-org/llama.cpp)
