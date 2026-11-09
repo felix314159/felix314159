@@ -5,7 +5,7 @@ I'm an experienced software engineer and Linux kernel contributor with a PhD in 
 ### Notable Contributions (not a complete list)
 
 * [Linux Kernel](https://github.com/torvalds/linux)
-    * [Fix a futex private-hash use-after-free](https://redirect.github.com/torvalds/linux/commit/1c7efabfbaf796f11000a46094a69955a01ec6cc) (this patch got merged into Linux Stable [6.18.47](https://cdn.kernel.org/pub/linux/kernel/v6.x/ChangeLog-6.18.47), [7.1.11](https://cdn.kernel.org/pub/linux/kernel/v7.x/ChangeLog-7.1.11) and [7.2.1](https://cdn.kernel.org/pub/linux/kernel/v7.x/ChangeLog-7.2.1))
+    * [CVE-2026-98788](https://www.cve.org/CVERecord?id=CVE-2026-98788), [Fix a futex private-hash use-after-free](https://redirect.github.com/torvalds/linux/commit/1c7efabfbaf796f11000a46094a69955a01ec6cc) (this patch got merged into Linux Stable [6.18.47](https://cdn.kernel.org/pub/linux/kernel/v6.x/ChangeLog-6.18.47), [7.1.11](https://cdn.kernel.org/pub/linux/kernel/v7.x/ChangeLog-7.1.11) and [7.2.1](https://cdn.kernel.org/pub/linux/kernel/v7.x/ChangeLog-7.2.1))
     * [libceph: reject mismatched CRUSH weight-set sizes](https://redirect.github.com/torvalds/linux/commit/d8fc89b5bfe4cb3aebe4c8a818247d11291b841c) (merged into 7.4, will be backported into 7.3, 6.18, 6.12, 6.6, 6.1, 5.15 and 5.10)
 * [Google syzkaller](https://github.com/google/syzkaller)
     * [Describe Linux robust futex unlock operations](https://redirect.github.com/google/syzkaller/pull/7770)
