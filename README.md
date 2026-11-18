@@ -6,8 +6,8 @@ I'm an experienced software engineer and Linux kernel contributor with a PhD in 
 
 * [Linux Kernel](https://github.com/torvalds/linux)
     * [CVE-2026-80758](https://nvd.nist.gov/vuln/detail/cve-2026-80758), [Fix a futex private-hash use-after-free](https://redirect.github.com/torvalds/linux/commit/1c7efabfbaf796f11000a46094a69955a01ec6cc)
-    * [libceph: reject mismatched CRUSH weight-set sizes](https://redirect.github.com/torvalds/linux/commit/d8fc89b5bfe4cb3aebe4c8a818247d11291b841c) (will be merged into 7.4 and backported to older released)
-    * [wifi: mm81x: validate YAPS receive framing](https://redirect.github.com/torvalds/linux/commit/7e6689cbbf9e6040e4ce38656a126459aa994f68) (will be merged into 7.4 and backported to older released)
+    * [libceph: reject mismatched CRUSH weight-set sizes](https://redirect.github.com/torvalds/linux/commit/d8fc89b5bfe4cb3aebe4c8a818247d11291b841c) (will be merged into 7.4 and backported to older releases)
+    * [wifi: mm81x: validate YAPS receive framing](https://redirect.github.com/torvalds/linux/commit/7e6689cbbf9e6040e4ce38656a126459aa994f68) (will be merged into 7.4 and backported to older releases)
 * [Google syzkaller](https://github.com/google/syzkaller)
     * [Describe Linux robust futex unlock operations](https://redirect.github.com/google/syzkaller/pull/7770)
 * [Linus Torvalds' GuitarPedal](https://github.com/torvalds/GuitarPedal)
